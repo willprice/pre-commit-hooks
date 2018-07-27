@@ -1,0 +1,6 @@
+- id: black-formatter
+  name: Python Black formatter
+  description: This hook runs the Black formatter on all python files
+  entry: black
+  language: python
+  types: [python]
